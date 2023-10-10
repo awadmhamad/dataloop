@@ -1,0 +1,5 @@
+project_id  =       "peppy-booth-113517"
+region      =       "us-central1"
+cluster_name =       "dataloop-gke-cluster"
+serviceaccount_id = "dataloop-test-ci"
+gcp_credentials_file = "/tmp/credentials.json"
